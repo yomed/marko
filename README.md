@@ -2,29 +2,11 @@
     <a href="http://markojs.com/"><img src="https://raw.githubusercontent.com/marko-js/branding/master/marko-logo-medium-cropped.png" alt="Marko logo" width="300" /></a><br /><br />
 </p>
 
-<p align="center">
-    <a href="https://travis-ci.org/marko-js/marko" style="display:inline-block">
-        <img src="https://travis-ci.org/marko-js/marko.svg?branch=master"
-             alt="Build Status">
-    </a>
-    <a href="https://coveralls.io/github/marko-js/marko?branch=master" style="display:inline-block">
-        <img src="https://coveralls.io/repos/github/marko-js/marko/badge.svg?branch=master"
-             alt="Coverage Status">
-    </a>
-    <a href="https://gitter.im/marko-js/marko" style="display:inline-block">
-        <img src="https://badges.gitter.im/Join%20Chat.svg"
-             alt="Gitter">
-    </a>
-        </a>
-    <a href="https://www.npmjs.com/package/marko" style="display:inline-block">
-        <img src="https://img.shields.io/npm/v/marko.svg"
-             alt="NPM">
-    </a>
-    <a href="http://npm-stat.com/charts.html?package=marko" style="display:inline-block">
-        <img src="https://img.shields.io/npm/dm/marko.svg"
-             alt="Downloads">
-    </a>
-</p>
+[![Build Status](https://travis-ci.org/marko-js/marko.svg?branch=master)](https://travis-ci.org/marko-js/marko)
+[![Coverage Status](https://coveralls.io/repos/github/marko-js/marko/badge.svg?branch=master)](https://coveralls.io/github/marko-js/marko?branch=master)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marko-js/marko)
+[![NPM](https://img.shields.io/npm/v/marko.svg)](https://www.npmjs.com/package/marko)
+[![Downloads](https://img.shields.io/npm/dm/marko.svg)](http://npm-stat.com/charts.html?package=marko)
 
 Marko is a [_really_ fast](https://github.com/marko-js/templating-benchmarks) and lightweight HTML-based templating engine from eBay. Marko runs on Node.js and in the browser and it supports streaming, async rendering and custom tags. Templates are compiled to readable CommonJS modules. Learn more on [http://markojs.com/](http://markojs.com/).
 
