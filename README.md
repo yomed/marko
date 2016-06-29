@@ -2,9 +2,7 @@
     <a href="http://markojs.com/"><img src="https://raw.githubusercontent.com/marko-js/branding/master/marko-logo-medium-cropped.png" alt="Marko logo" width="300" /></a><br /><br />
 </p>
 
-Marko is a [_really_ fast](https://github.com/marko-js/templating-benchmarks) and lightweight HTML-based templating engine from eBay. Marko runs on Node.js and in the browser and it supports streaming, async rendering and custom tags. Templates are compiled to readable CommonJS modules. Learn more on [http://markojs.com/](http://markojs.com/).
-
-You can try out Marko online: [Try Marko Online!](http://markojs.com/try-online/)
+Marko is a [_really_ fast](https://github.com/marko-js/templating-benchmarks) and lightweight HTML-based templating engine from eBay. Marko runs on Node.js and in the browser and it supports streaming, async rendering and custom tags. Templates are compiled to readable CommonJS modules. Learn more on [markojs.com](http://markojs.com/), and even [Try Marko Online!](http://markojs.com/try-online/)
 
 [![Build Status](https://travis-ci.org/marko-js/marko.svg?branch=master)](https://travis-ci.org/marko-js/marko)
 [![Coverage Status](https://coveralls.io/repos/github/marko-js/marko/badge.svg?branch=master)](https://coveralls.io/github/marko-js/marko?branch=master)
